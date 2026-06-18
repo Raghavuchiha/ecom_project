@@ -49,4 +49,3 @@ def create_refresh_token(subject: Union[str, Any], expires_delta: int = None) ->
     encoded_jwt = jwt.encode(to_encode, REFRESH_SECRET_KEY, ALGORITHM)
     return encoded_jwt
 
-print(SECRET_KEY)
