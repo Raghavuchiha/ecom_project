@@ -1,7 +1,4 @@
 annotated-types==0.7.0
-anyio==4.9.0
-argon2-cffi==23.1.0
-argon2-cffi-bindings==21.2.0
 bcrypt==4.3.0
 certifi==2025.1.31
 cffi==1.17.1
@@ -14,14 +11,10 @@ email-validator==2.2.0
 fastapi[standard]==0.115.6
 greenlet==3.1.1
 h11==0.14.0
-httpcore==1.0.7
 httptools==0.6.4
-httpx==0.28.1
 idna==3.10
 Jinja2==3.1.5
-markdown-it-py==3.0.0
 MarkupSafe==3.0.2
-mdurl==0.1.2
 passlib==1.7.4
 pwdlib==0.2.1
 pyasn1==0.6.1
@@ -48,4 +41,4 @@ urllib3==2.3.0
 uvicorn==0.34.0
 watchfiles==1.0.4
 websockets==14.2
-supabase==2.10.0
+supabase==2.31.0
